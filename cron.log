@@ -1,0 +1,812 @@
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.56
+IP       : 192.168.1.56
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.56
+IP       : 192.168.1.56
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.35
+IP       : 192.168.1.35
+HOSTNAME : 192.168.1.35
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.36
+IP       : 192.168.1.36
+HOSTNAME : 192.168.1.36
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.56
+IP       : 192.168.1.56
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.35
+IP       : 192.168.1.35
+HOSTNAME : 192.168.1.35
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.36
+IP       : 192.168.1.36
+HOSTNAME : 192.168.1.36
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.56
+IP       : 192.168.1.56
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[NEW] 192.168.137.39
+IP       : 192.168.137.39
+HOSTNAME : DESKTOP_AYMANE.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[NEW] 192.168.137.47
+IP       : 192.168.137.47
+HOSTNAME : VISOR.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[NEW] 192.168.137.71
+IP       : 192.168.137.71
+HOSTNAME : OPPO-A3s.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[NEW] 192.168.137.204
+IP       : 192.168.137.204
+HOSTNAME : FDC.mshome.net
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.137.39
+IP       : 192.168.137.39
+HOSTNAME : DESKTOP_AYMANE.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.137.47
+IP       : 192.168.137.47
+HOSTNAME : VISOR.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.137.71
+IP       : 192.168.137.71
+HOSTNAME : OPPO-A3s.mshome.net
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[NEW] 192.168.137.146
+IP       : 192.168.137.146
+HOSTNAME : 192.168.137.146
+MAC      : ca:9f:ac:12:2d:34
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.137.204
+IP       : 192.168.137.204
+HOSTNAME : FDC.mshome.net
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[NEW] 192.168.137.7
+IP       : 192.168.137.7
+HOSTNAME : 192.168.137.7
+MAC      : 
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+[UPDATED] 192.168.137.39
+IP       : 192.168.137.39
+HOSTNAME : 192.168.137.39
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.137.47
+IP       : 192.168.137.47
+HOSTNAME : 192.168.137.47
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.137.71
+IP       : 192.168.137.71
+HOSTNAME : 192.168.137.71
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+
+DONE V10
+Scan completed...
+
+[UPDATED] 192.168.137.47
+IP       : 192.168.137.47
+HOSTNAME : 192.168.137.47
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.137.47
+IP       : 192.168.137.47
+HOSTNAME : 192.168.137.47
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.0.1
+IP       : 192.168.0.1
+HOSTNAME : 192.168.0.1
+MAC      : 28:ee:52:50:00:1b
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+[NEW] 192.168.0.102
+IP       : 192.168.0.102
+HOSTNAME : 192.168.0.102
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[NEW] 192.168.0.109
+IP       : 192.168.0.109
+HOSTNAME : 192.168.0.109
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.0.118
+IP       : 192.168.0.118
+HOSTNAME : 192.168.0.118
+MAC      : d8:55:75:f2:7f:7b
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.0.120
+IP       : 192.168.0.120
+HOSTNAME : 192.168.0.120
+MAC      : 0e:24:2c:a3:3e:23
+VENDOR   : Huawei
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.0.146
+IP       : 192.168.0.146
+HOSTNAME : 192.168.0.146
+MAC      : c2:44:9b:ff:e0:2a
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.0.172
+IP       : 192.168.0.172
+HOSTNAME : 192.168.0.172
+MAC      : be:dd:ad:b7:d9:9e
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.0.179
+IP       : 192.168.0.179
+HOSTNAME : 192.168.0.179
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : 64:29:43:70:68:16
+VENDOR   : Cisco
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.39
+IP       : 192.168.1.39
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : 64:29:43:70:68:16
+VENDOR   : Cisco
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.39
+IP       : 192.168.1.39
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : 64:29:43:70:68:16
+VENDOR   : Cisco
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.36
+IP       : 192.168.1.36
+HOSTNAME : 192.168.1.36
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.39
+IP       : 192.168.1.39
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : 64:29:43:70:68:16
+VENDOR   : Cisco
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.36
+IP       : 192.168.1.36
+HOSTNAME : 192.168.1.36
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.39
+IP       : 192.168.1.39
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+IP       : 192.168.1.1
+HOSTNAME : _gateway
+MAC      : 64:29:43:70:68:16
+VENDOR   : Cisco
+PORTS    : 22,80
+----------------------------------
+[UPDATED] 192.168.1.34
+IP       : 192.168.1.34
+HOSTNAME : 192.168.1.34
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.36
+IP       : 192.168.1.36
+HOSTNAME : 192.168.1.36
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.37
+IP       : 192.168.1.37
+HOSTNAME : 192.168.1.37
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.38
+IP       : 192.168.1.38
+HOSTNAME : 192.168.1.38
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : none
+----------------------------------
+[UPDATED] 192.168.1.39
+IP       : 192.168.1.39
+HOSTNAME : VISOR
+MAC      : unknown
+VENDOR   : Unknown
+PORTS    : 22,80
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+----------------------------------
+[UPDATED] 192.168.1.34
+----------------------------------
+[UPDATED] 192.168.1.36
+----------------------------------
+[UPDATED] 192.168.1.37
+----------------------------------
+[UPDATED] 192.168.1.38
+----------------------------------
+[UPDATED] 192.168.1.39
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+Scan completed...
+
+[UPDATED] 192.168.1.1
+----------------------------------
+[UPDATED] 192.168.1.34
+----------------------------------
+[UPDATED] 192.168.1.36
+----------------------------------
+[UPDATED] 192.168.1.37
+----------------------------------
+[UPDATED] 192.168.1.38
+----------------------------------
+[UPDATED] 192.168.1.39
+----------------------------------
+
+DONE V10
+======================================
+      NETVISOR V10 ENTERPRISE         
+======================================
+
+======================================
+      NETVISOR V24 FINAL SYSTEM       
+======================================
+
+Scan started...
+
+[OK] 192.168.1.1
+[OK] 192.168.1.33
+[OK] 192.168.1.34
+[OK] 192.168.1.36
+[OK] 192.168.1.39
+
+DONE V24 SYSTEM
+======================================
+      NETVISOR V24 FINAL SYSTEM       
+======================================
+
+Scan started...
+
+[OK] 192.168.1.1
+[OK] 192.168.1.33
+[OK] 192.168.1.34
+[OK] 192.168.1.35
+[OK] 192.168.1.36
+[OK] 192.168.1.39
+
+DONE V24 SYSTEM
+======================================
+      NETVISOR V24 FINAL SYSTEM       
+======================================
+
+PHP Fatal error:  Uncaught Error: Call to undefined method NetworkService::getLocalNetwork() in /home/moad21/netvisor-mini-discovery-v1/run.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/run.php on line 26
+======================================
+      NETVISOR V24 FINAL SYSTEM       
+======================================
+
+PHP Fatal error:  Uncaught Error: Call to undefined method NetworkService::getLocalNetwork() in /home/moad21/netvisor-mini-discovery-v1/run.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/run.php on line 26
+======================================
+      NETVISOR V24 FINAL SYSTEM       
+======================================
+
+PHP Fatal error:  Uncaught Error: Call to undefined method NetworkService::getLocalNetwork() in /home/moad21/netvisor-mini-discovery-v1/run.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/run.php on line 26
+======================================
+      NETVISOR V26 FINAL CORE         
+======================================
+
+======================================
+      NETVISOR V26 FINAL CORE         
+======================================
+
+======================================
+      NETVISOR V26 FINAL CORE         
+======================================
+
+Scanning network...
+
+[OK] 192.168.1.1 | Risk: 20
+[OK] 192.168.1.33 | Risk: 20
+[OK] 192.168.1.34 | Risk: 20
+[OK] 192.168.1.35 | Risk: 20
+[OK] 192.168.1.37 | Risk: 20
+[OK] 192.168.1.39 | Risk: 20
+[OK] 192.168.0.5 | Risk: 40
+
+DONE V26 SYSTEM
+======================================
+      NETVISOR V27 SIEM CORE          
+======================================
+
+Scanning network...
+
+[OK] 192.168.1.1 | Risk: 20
+[OK] 192.168.1.33 | Risk: 20
+[OK] 192.168.1.34 | Risk: 20
+[OK] 192.168.1.36 | Risk: 20
+[OK] 192.168.1.39 | Risk: 20
+[OK] 192.168.0.5 | Risk: 20
+
+DONE V26 SYSTEM
+======================================
+      NETVISOR V27 SIEM CORE          
+======================================
+
+Scanning network...
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(97): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+Scanning network...
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(105): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+Scanning network...
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(105): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(93): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(93): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(93): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(93): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22
+NETVISOR V28 FINAL SYSTEM
+
+PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php:22
+Stack trace:
+#0 /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php(22): PDOStatement->execute()
+#1 /home/moad21/netvisor-mini-discovery-v1/run.php(93): EventService->log()
+#2 {main}
+  thrown in /home/moad21/netvisor-mini-discovery-v1/app/services/EventService.php on line 22

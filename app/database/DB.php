@@ -1,0 +1,13 @@
+<?php
+
+class DB
+{
+    public static function connect()
+    {
+        return new PDO(
+            "mysql:host=localhost;dbname=netvisor;charset=utf8mb4",
+            "netvisor",
+            "Netvisor@2025!"
+        );
+    }
+}
