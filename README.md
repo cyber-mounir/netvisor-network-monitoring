@@ -129,7 +129,7 @@ netvisor/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/netvisor-network-monitoring.git
+git clone https://github.com/cyber-mounir/netvisor-network-monitoring.git
 cd netvisor-network-monitoring
 ```
 
